@@ -2,7 +2,7 @@
 
 An intelligent invoice processing system that extracts data from **multilingual invoices** using OCR and NLP, and flags suspicious invoices with a **machine learning fraud detection model**. Results are shown in an interactive **Streamlit** dashboard.
 
-![Smart Invoice Analyzer Preview]("C:\Users\skasi\Downloads\portfolio-v3\Asifa_Shaik_Portfolio\assets\Smart_Invoice_Analyzer.png")
+
 
 > This was a **group project**. See [Team and My Contribution](#team-and-my-contribution) below.
 
