@@ -118,5 +118,5 @@ This project was built by a team of students.
 **Shaik Asifa**
 
 - GitHub: [ShaikAsifa2612](https://github.com/ShaikAsifa2612)
-- LinkedIn: [sk-asifa-888a6322b](https://www.linkedin.com/in/sk-asifa-888a6322b)
+- LinkedIn: [sk-asifa-888a6322b](www.linkedin.com/in/shaik-asifa2612)
 - Email: skasifa2612@gmail.com
